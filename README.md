@@ -9,7 +9,7 @@
 
 Olá pessoal 👋
 
-Sou estatística apaixonada por matemática e análise de dados e estou aprimorando minhas competências em programação para me tornar uma grande cientista de dados.
+Sou apaixonada por estatística, matemática e análise de dados e estou aprimorando minhas competências em programação para me tornar uma grande cientista de dados.
 
 <div align="center">
   <a href="https://github.com/KATYGDF">
