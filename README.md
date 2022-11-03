@@ -14,7 +14,7 @@ Sou estatística apaixonada por matemática e análise de dados e estou aprimora
 <div align="center">
   <a href="https://github.com/KATYGDF">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KATYGDF&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATYGDF&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATYGDF&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
   
 ### 🖥️ Tecnologias e Ferramentas: 
