@@ -10,14 +10,18 @@
 Olá pessoal 👋
 
 Sou apaixonada por estatística, matemática e análise de dados e estou aprimorando minhas competências em programação para me tornar uma grande cientista de dados.
-
+ <br>
+ <br>
+ 
 <div align="center">
   <a href="https://github.com/KATYGDF">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KATYGDF&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATYGDF&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
   
-### 🖥️ Tecnologias e Ferramentas: 
+ <br>
+ 
+#### 🖥️ Tecnologias e Ferramentas: 
 <div style="display: inline_block">
   <img align="center" alt="Katy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Katy-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />  
