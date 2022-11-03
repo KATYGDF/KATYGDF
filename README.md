@@ -1,16 +1,34 @@
-### Hi there 👋
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Katy Garcia de Freitas</h1>
+  <a href="https://www.linkedin.com/in/katygarciadefreitas/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div> <br>
 
-<!--
-**KATYGDF/KATYGDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá pessoal 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estatística apaixonada por matemática e análise de dados e estou aprimorando minhas competências em programação para me tornar uma grande cientista de dados.
+
+<div align="center">
+  <a href="https://github.com/KATYGDF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KATYGDF&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATYGDF&layout=compact&langs_count=7&theme=flag-india"/>
+</div>
+  
+### 🖥️ Tecnologias e Ferramentas: 
+<div style="display: inline_block">
+  <img align="center" alt="Katy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Katy-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />  
+  <img align="center" alt="Katy-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Katy-Minitab" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/katygarciadefreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
