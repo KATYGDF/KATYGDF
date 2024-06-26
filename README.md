@@ -1,15 +1,41 @@
-<div dsplay="inline-block">
- 
- <h1 align="left">Katy Garcia de Freitas</h1>
-  <a href="https://www.linkedin.com/in/katygarciadefreitas/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div> <br>
+## Welcome to My GitHub Portfolio 👋
+
+### About Me
+
+🎓 Passionate Statistician:
+
+I am a statistician passionate about data analysis. With a background in Statistics, I hold a Bachelor’s degree in Statistics (Brazil), an Executive MBA in Health Management from FGV (Brazil), and a Master's degree in Statistics from Universidade do Minho (Portugal).
+
+📊 Professional Experience:
+
+With 20 years of experience in healthcare data analysis, I have worked in large companies and consultancies, developing skills to handle large volumes of data. I apply statistical techniques, predictive models, machine learning tools, and artificial intelligence to interpret data, identify risks, deviations, and opportunities, providing solid data and insights for decision-making.
+
+🔬 Research:
+
+I served as a researcher at Universidade do Minho on the project "Improving spatial estimation and survey design through preferential sampling in fishery and biological applications - +PTDC/MATSTA/28243/2017", funded by the Foundation for Science and Technology/MCTES. This role enhanced my experience in applying advanced statistical methods across various domains.  
+The full text of my thesis can be accessed <a href="https://repositorium.sdum.uminho.pt/bitstream/1822/80581/1/Katy%20Garcia%20de%20Freitas.pdf" target="_blank">here</a>.</p>
+
+### Qualifications
+Specialized in statistical modeling  
+Proficient in processing large databases  
+Skilled in meticulous analysis of root causes, identifying deviations, signs of fraud, and more  
+Experienced in continuing education, working in training and development  
+Team management  
+Expertise in risk management and decision-making  
+
+### Projects
+lista de projetos a ser inserida no futuro
+
+### Contact
+<div class="content">
+    <p>📬 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/katygarciadefreitas/" target="_blank">https://www.linkedin.com/in/katygarciadefreitas/</a></p>
+</div>
+  
+✉️ Email: katygdf@gmail.com  
 
 
-Olá pessoal 👋
+Thank you for visiting! If you wish to learn more about my professional journey, please do not hesitate to get in touch.
 
-Sou apaixonada por estatística, matemática e análise de dados e estou aprimorando minhas competências em programação para me tornar uma grande cientista de dados.
  <br>
  <br>
  
